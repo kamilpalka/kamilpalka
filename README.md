@@ -25,7 +25,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" /> GitHub
 
 ### Find me around the web 🌏
-<a href="https://www.linkedin.com/in/kamil-pałka" target="_blank"><img align="center" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" /> Kamil Pałka</a>
+<a href="https://www.linkedin.com/in/kamil-pałka"><img align="center" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" /> Kamil Pałka</a>
 
 
 

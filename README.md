@@ -2,7 +2,7 @@
 
 I'm Kamil and I like to work with code and learning new technologies. 
 Programming is my passion and my favourite language is JavaScript/TypeScript.
-I'm currently improving my coding skills by learning game development in Phaser3 game engine and vanilla javascript.
+I'm currently improving my coding skills by learning game development in Phaser3 game engine and vanilla JavaScript.
 
 You can check my progress on this journey in my repositories
 

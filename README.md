@@ -1,6 +1,6 @@
 # Hi there 👋 
 
-I'm Kamil and I like to work with code and learning new technologies. 
+I'm Kamil and I like to work with code and learn new technologies. 
 Programming is my passion and my favourite programming language is JavaScript/TypeScript.
 
 You can check my progress on this journey in my repositories
